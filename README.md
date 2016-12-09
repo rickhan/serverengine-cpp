@@ -1,1 +1,1 @@
-# serverengine-cpp
+# serverengine-cppserver engine for MMOG, with c++ & lua implementation
